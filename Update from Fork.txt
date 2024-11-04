@@ -1,0 +1,10 @@
+Along with the dry fruits we can add its price too.
+Almonds - 120
+Cashews - 250 
+Raisins - 200
+Dates - 140 
+Prunes - 150
+Sesame seeds - 50
+Walnuts - 250
+Pista - 190
+English Walnut - 240
